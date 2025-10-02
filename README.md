@@ -343,7 +343,7 @@ If you like this project, please give it a ⭐️!
 
 For questions or support:
 - Open an [issue](https://github.com/LuckyLalwani/mytodo-app/issues)
-- Email: your.email@example.com
+- Email: lalwanilucky333@gmail.com
 
 ---
 
