@@ -8,8 +8,8 @@
   
   **A simple, secure, and synchronized task management application**
   
-  [Features](#features) • [Screenshots](#screenshots) • [Installation](#installation) • [Technologies](#technologies) • [Contributing](#contributing)
-  
+  <!-- [Features](#features) • [Screenshots](#screenshots) • [Installation](#installation) • [Technologies](#technologies) • [Contributing](#contributing)
+   -->
 </div>
 
 ---
@@ -68,7 +68,7 @@ MyTodo is a modern task management application built with Flutter and Firebase t
 
 </div>
 
-> **Note:** Add actual screenshots to a `screenshots/` folder in your repository
+
 
 ---
 
@@ -86,7 +86,7 @@ Before you begin, ensure you have the following installed:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/mytodo-app.git
+   git clone https://github.com/LuckyLalwani/mytodo-app.git
    cd mytodo-app
    ```
 
@@ -285,7 +285,7 @@ Contributions are welcome! Here's how you can help:
 
 - None at the moment! 🎉
 
-Found a bug? [Open an issue](https://github.com/YOUR_USERNAME/mytodo-app/issues)
+Found a bug? [Open an issue](https://github.com/LuckyLalwani/mytodo-app/issues)
 
 ---
 
@@ -296,7 +296,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ```
 MIT License
 
-Copyright (c) 2024 [Your Name]
+Copyright (c) 2024 LuckyLalwani
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -321,14 +321,13 @@ SOFTWARE.
 
 ## 👤 Author
 
-**[Your Name]**
+**Lucky Lalwani**
 
-- GitHub: [@your-username](https://github.com/your-username)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/your-profile)
-- Email: your.email@example.com
+- GitHub: [@LuckyLalwani](https://github.com/LuckyLalwani)
+- LinkedIn: [Lucky Lalwani](https://www.linkedin.com/in/lucky-lalwani-410b42256?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- Email: lalwanilucky333@gmail.com
 
 ---
-
 ## 🙏 Acknowledgments
 
 - [Flutter](https://flutter.dev/) - For the amazing framework
@@ -343,7 +342,7 @@ SOFTWARE.
 If you like this project, please give it a ⭐️!
 
 For questions or support:
-- Open an [issue](https://github.com/YOUR_USERNAME/mytodo-app/issues)
+- Open an [issue](https://github.com/LuckyLalwani/mytodo-app/issues)
 - Email: your.email@example.com
 
 ---
@@ -352,6 +351,6 @@ For questions or support:
   
   **Made with ❤️ using Flutter**
   
-  © 2024 [Your Name]. All rights reserved.
+  © 2024 LuckyLalwnai. All rights reserved.
   
 </div>
